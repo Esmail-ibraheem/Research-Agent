@@ -1,5 +1,5 @@
 # Research-Agent
-An agent powered by OpenAI that searches and explains papers from arXiv and summarizes each paper with the specific topic the user asks 
+An agent powered by OpenAI that searches and explains papers from arXiv and summarizes each paper with the specific topic the user asks for 
 
 ## How to use
 
