@@ -24,3 +24,6 @@ PRC> :speed 120
 PRC> :sum 12
 
 ```
+
+- **output is inside the file digest.md**
+- **and the chatting system in the terminal: where the knowledge base is the papers searched from the beginning**
