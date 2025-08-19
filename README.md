@@ -61,6 +61,44 @@ python Research-agent.py digest \
 
 ✅ Produces `digest.md` and updates `kb.jsonl`.
 
+```markdown
+# Research Digest — Graph Neural Networks in Drug Discovery
+_Generated: 2025-08-18T10:45:00+00:00_
+
+---
+
+## 1. Graph Neural Networks for Drug-Target Interaction Prediction
+- **Score**: 0.842  
+- **Authors**: Alice Zhang, Marco Rossi, Daniel Li  
+- **Published**: 2025-07-28T00:00:00+00:00  
+- **Categories**: cs.LG, q-bio.BM  
+- **Link**: https://arxiv.org/abs/2507.12345  
+
+**AI Summary**  
+- **Problem**: Existing drug-target interaction models struggle with sparse biochemical data.  
+- **Method**: Proposes a GNN with attention-based pooling for drug–protein binding prediction.  
+- **Results**: Achieves state-of-the-art AUC (0.91) on multiple public datasets.  
+- **Limitations**: Tested only on small molecules; generalization to peptides not validated.  
+
+---
+
+## 2. Multi-Scale Graph Transformers for Drug Discovery Pipelines
+- **Score**: 0.791  
+- **Authors**: Priya Gupta, Henrik Müller, John Smith  
+- **Published**: 2025-06-15T00:00:00+00:00  
+- **Categories**: cs.AI, chem-ph  
+- **Link**: https://arxiv.org/abs/2506.09876  
+
+**AI Summary**  
+- **Problem**: Traditional GNNs capture local but not global chemical structure.  
+- **Method**: Introduces hierarchical graph transformer layers with multi-scale attention.  
+- **Results**: Outperforms baselines on QM9 and MoleculeNet benchmarks.  
+- **Limitations**: Computational cost higher; requires GPUs for scalability.  
+
+---
+
+```
+
 ---
 
 ### 💬 Chat Mode
