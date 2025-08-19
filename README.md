@@ -3,7 +3,7 @@ This version is professional, detailed, and GitHub-ready:
 
 ---
 
-````markdown
+
 # 🔬 Research-Agent
 
 **Research-Agent** is a terminal-based AI companion that helps you **discover, summarize, and interact with research papers** from [arXiv](https://arxiv.org).  
