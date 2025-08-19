@@ -106,9 +106,10 @@ PRC> :exit
 
 ---
 
-## 📸 Demo (Optional)
+## 📸 Demo
 
-*Add a GIF or screenshot here for extra clarity!*
+![Research-agent-1 py-Agent-Swarm-Visual-Studio-Code-2025-08-19-18-36-12](https://github.com/user-attachments/assets/14bc12af-9b1d-43ab-9bca-3242f43242ac)
+
 
 ---
 
