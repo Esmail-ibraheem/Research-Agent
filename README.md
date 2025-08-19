@@ -1,7 +1,4 @@
-Perfect 🚀 Let me draft you a polished **README.md** for your **Research-Agent** project.
-This version is professional, detailed, and GitHub-ready:
 
----
 
 
 # 🔬 Research-Agent
